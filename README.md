@@ -7,9 +7,15 @@ I'm James, a software engineer with a passion for build blockchain and fintech r
 * I'm always open to new work and cool projects, you can contact me at nshcore@protonmail.com
 * Frameworks I work with currently are NestJS, VueJS and .Net Core
 
-👨‍💻 Languages
+### 💵 Blockchains
 
 ![](https://img.shields.io/badge/Bitcoin-informational?style=flat&color=1d1f21&logo=bitcoin)
+![](https://img.shields.io/badge/Ethereum-informational?style=flat&color=1d1f21&logo=ethereum)
+![](https://img.shields.io/badge/IPFS-informational?style=flat&color=1d1f21&logo=ipfs)
+
+
+### 👨‍💻 Languages
+
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&color=1d1f21&logo=typescript)
 ![](https://img.shields.io/badge/NetCore-informational?style=flat&color=1d1f21&logo=c#)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&color=1d1f21&logo=javascript)
@@ -37,3 +43,15 @@ I'm James, a software engineer with a passion for build blockchain and fintech r
 <a href="https://github.com/yohannesHL/yohannesHL">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nshcore&hide=html,css,vue&title_color=1d1f21" />
 </a>
+
+### 🔨 Projects
+
+- [Typescript opensource project boiler plate](https://github.com/nshCore/ts-oss-boiler)
+- [Collection of Typescript helpers I use in every day projects](https://github.com/nshCore/utility-ts)
+- [Implementation of K-Bucket from Kademlia DHT](https://github.com/nshCore/KBucketNET)
+- [Typescript library for using storing and spending Bitcoin and Ethereum](https://github.com/nshCore/cryptowallet-ts)
+- [Shareable Eslint config focusing on strict coding style and best practices](https://github.com/nshCore/eslint-config-nshcore)
+- [Docker scripts to run a private local IPFS network](https://github.com/nshCore/ipfs-private-network)
+- [Persistant state store for vuex-orm built on LokiJS](https://github.com/nshCore/vuex-orm-plugin-lokijs)
+- [Implementation of MultiFormats specification in .Net](https://github.com/nshCore/multiformats-dotnet)
+- [Configuration for systemD linux systems to run docker-registry as a service](https://github.com/nshCore/docker-registry)
