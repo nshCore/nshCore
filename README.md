@@ -55,3 +55,7 @@ I'm James, a software engineer with a passion for build blockchain and fintech r
 - [Persistant state store for vuex-orm built on LokiJS](https://github.com/nshCore/vuex-orm-plugin-lokijs)
 - [Implementation of MultiFormats specification in .Net](https://github.com/nshCore/multiformats-dotnet)
 - [Configuration for systemD linux systems to run docker-registry as a service](https://github.com/nshCore/docker-registry)
+
+### 📚 Whitepapers
+
+- [Catalyst Network Technical WhitePaper](https://github.com/nshCore/catalyst-whitepaper/blob/master/catalyst-technical-whitepaper-new.pdf)
