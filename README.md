@@ -4,7 +4,7 @@ I'm James, a software engineer with a passion for build blockchain and fintech r
 
 * I currently mainly focus on backend engineering in NodeJS with Typescript and cross platform .Net Core applications
 * Im interested in distributed systems, P2P networks, distributed ledgers, blockchain and microservices
-* I'm always open to new work and cool projects, you can contact me at nshcore@protonmail.com
+* I'm always open to new work and cool projects, you can contact me at contact@nublock.io
 * Frameworks I work with currently are NestJS, VueJS and .Net Core
 
 ### 💵 Blockchains
